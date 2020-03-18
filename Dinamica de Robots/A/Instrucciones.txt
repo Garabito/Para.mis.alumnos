@@ -1,7 +1,7 @@
 Titulo: Prototipo de Robot (fecha entrega 10/03/2020) (equipo)
 - Fotos del robot armado (3 GDL, no incluye el gripper) con un sensor de posicion en cada uno de los eslabones, un motor en cada uno de los eslabones y el cableado de los motores.
 
-Titulo: Prototipo de control Robot (fecha entrega 19/02/2020) (equipo)
+Titulo: Prototipo de control Robot (fecha entrega 06/02/2020) (equipo)
 - Diseñar el control Proporcional (pero si el alumno desea hacer un PI o un PID, puede hacerlo) de un motor usando la tarjeta PSOC 5LP 
 
 Titulo: PSOC_5LP_Envio_Mensaje_ROS (fecha entrega 20/03/2020) (individual)
