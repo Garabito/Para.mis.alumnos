@@ -1,21 +1,21 @@
-Titulo: Prototipo de Robot
+Titulo: Prototipo de Robot (fecha entrega 10/03/2020)
 - Fotos del robot armado (3 GDL, no incluye el gripper) con un sensor de posicion en cada uno de los eslabones, un motor en cada uno de los eslabones y el cableado de los motores.
 
-Titulo: Prototipo de control Robot
+Titulo: Prototipo de control Robot (fecha entrega 19/02/2020)
 - Diseñar el control Proporcional (pero si el alumno desea hacer un PI o un PID, puede hacerlo) de un motor usando la tarjeta PSOC 5LP 
 
-Titulo: PSOC_5LP_Envio_Mensaje_ROS
+Titulo: PSOC_5LP_Envio_Mensaje_ROS (fecha entrega 20/03/2020)
 - Programar la PSOC para enviar un mensaje usando la paqueteria de mensajes con ROS y sea visto en la terminal de ROS.
 	- Subir el codigo al Github (50%)
 	- Hacer un video explicando lo que hiciste, como lo hiciste y explicando su funcionamiento al youtube (50%) (poner la liga de youtube en github, y en youtube poner la liga del github)
 	
 	
-Titulo: Mover_3_GDL_ROS
+Titulo: Mover_3_GDL_ROS (fecha entrega 31/03/2020)
 - Diseñar un codigo con el que se puedan mandar los 3 grados de libertad a la PSOC y mueva 3 motores (no es necesario que esten los motores en el robot o que muevan al robot, eso corresponde al proyecto)
 	- Subir el codigo al Github (50%)
 	- Hacer un video explicando lo que hiciste, como lo hiciste y explicando su funcionamiento al youtube (50%) (poner la liga de youtube en github, y en youtube poner la liga del github)
 
-Titulo:  Proyecto
+Titulo:  Proyecto (fecha entrega 3/04/2020)
  - Reunir todos las practicas y aplicarlas en el robot, con un solo comando debe moverse a una posicion x,y,z de un plano cartesiano.
  
  	- Subir el codigo al Github (20%)
