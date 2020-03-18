@@ -1,2 +1,2 @@
-# Prueba.para.mis.alumnos
-Aqui vamos a ver como hacer el repositorio
+# Indicaciones.para.mis.alumnos
+Aqui vamos a explicar lo que deben entregar
