@@ -1,0 +1,22 @@
+-Tema:  Funcion de transferencia(Ejercicios  - Individual)			21/01/2020
+	-Ejercicios solicitados en clase (modelos matematicos de sistemas fisicos - electricos, mecanicos)
+-Tema:  Algebra de Bloques(Ejercicios  - Individual)			11/02/2020
+	-Ejercicios solicitados en clase (reduccion de bloques y flujo de señales)
+-Tema:  Estabilidad de Routh (Ejercicios - Individual)			18/02/2020
+	-Ejercicios solicitados en clase
+-Tema:  Estabilidad de Routh (Practica - Equipo)			25/02/2020
+	-Practica en pdf entregada
+Tema: Diseño de controles (Practica - Equipo)			03/03/2020
+	-Practica donde se aplica el diseño de un control PID a un motor CD
+		- Hacer un video explicando lo que hiciste, como lo hiciste, diseño electronico y explicando su funcionamiento y tambien explicando el diseño electronico al youtube (50%) (poner la liga de youtube en github, y en youtube poner la liga del github)
+		- Fotos o video de evidencia en que se reuninen usando un programa de conferencias como el jami / skype / zoom, etc (50%)
+		
+Actividad Integradora de Unidad (Control de posicion de motor CD) (equipo)			03/04/2020
+ 
+ - Reunir todos las practicas y aplicarlas en el robot, con un solo comando debe moverse a una posicion x,y,z de un plano cartesiano.
+ 
+ 	- Subir el codigo al Github (20%)
+	- Hacer un video explicando lo que hiciste, como lo hiciste y explicando su funcionamiento al youtube (20%) (poner la liga de youtube en github, y en youtube poner la liga del github)
+	- Moverse con un solo comando (20%)
+	- Usar un control de movimiento o de posicion (20%)
+	- Reporte de diseño, armado, analisis (elementos finitos), pruebas, resultados y conclusiones (20%)
