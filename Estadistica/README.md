@@ -1,4 +1,4 @@
-#Instruccions:
+# Instruccions:
 
 Tema: Distribuciones (Individual)			28/03/2020
 
