@@ -2,7 +2,7 @@
 
 Tema: Comandos_gcc_y_gdb (Tarea) Fecha de entrega 21/03/2020
 
--Generar un archivo (word, scribus, publisher, etc) tipo triptico donde se incluyan los comandos mas comunes en el lado izquierdo y en el centro, la función que realizan, y del lado derecho, un ejemplo
+- Generar un archivo (word, scribus, publisher, etc) tipo triptico donde se incluyan los comandos mas comunes en el lado izquierdo y en el centro, la función que realizan, y del lado derecho, un ejemplo
 
 Tema: gcc_arm (Practica) Individual Fecha de entrega 24/03/2020 (archivo pdf Compilando_Gcc)
 
@@ -44,9 +44,9 @@ Tema: Interrupciones (Practica)			24/01/2020
 
 Tema:PWM (Practica)			31/01/2020
 
--usando PWM mover un servomotor
+- usando PWM mover un servomotor
 
--Tema: UART_Tx_Rx_SPI_I2C (Practica)			07/02/2020
+- Tema: UART_Tx_Rx_SPI_I2C (Practica)			07/02/2020
 
 - Escribir en un programa de terminal (teraterm, termite, putty) un numero y que la PSOC interprete ese dato y prenda el numero de led correspondiente (del 1 al 10)
 
