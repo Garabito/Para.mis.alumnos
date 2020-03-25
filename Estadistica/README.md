@@ -1,3 +1,4 @@
+Instruccions:
 Tema: Distribuciones (Individual)			28/03/2020
 		- https://www.youtube.com/watch?v=0vUl-ZOTNiA
 		- https://www.youtube.com/watch?v=1mSEgwaRB1k
