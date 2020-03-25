@@ -1,0 +1,20 @@
+Ejercicio 1
+Se ha tomado una muestra aleatoria de 100 individuos a los que se les ha preguntado la cantidad de dinero que tienen en la cartera, obteniéndose una media muestral de 110 €. Se sabe que la desviación típica de la población es de 20 €.
+
+a) Obtener un intervalo de confianza, al 90%, para la cantidad de dinero en la cartera de la población.
+b) ¿Cuál es el error máximo cometido con la estimación anterior?
+c) Si deseamos que el error cometido, con el mismo nivel de confianza, sea la décima parte dele apartado anterior, ¿cuál ha de ser el tamaño de la muestra?
+
+
+La vida media de un determinado modelo de bombilla sigue una distribución normal con desviación típica igual a 60 días. Elegida una muestra y con un nivel de confianza del 98% se obtiene el intervalo (388,68 , 407,32) para la vida media. Calcule la media y el tamaño de la muestra elegida. Detalle los pasos realizados para obtener los resultados.
+
+Ejercicio 2
+El tiempo en minutos dedicado a escuchar música por los estudiantes de secundaria de una cierta ciudad se supone que es una variable aleatoria con distribución normal de desviación típica igual a 15 minutos. Se toma una muestra aleatoria simple de 10 estudiantes y se obtienen los siguientes tiempos (en minutos):
+91	68	39	82	55
+70	72	62	54	67
+a) Determínese un intervalo de confianza al 90 % para el tiempo medio diario dedicado a escuchar música por un estudiante.
+b) Calcúlese el tamaño muestral mínimo necesario para conseguir una estimación de la media del tiempo diario dedicado a escuchar música con un error menor que 5 minutos, con un nivel de confianza del 95 %.
+
+Ejercicio 3
+  La vida media de un determinado modelo de bombilla sigue una distribución normal con desviación típica igual a 60 días. Elegida una muestra y con un nivel de confianza del 98% se obtiene el intervalo (388,68 , 407,32) para la vida media. Calcule la media y el tamaño de la muestra elegida. Detalle los pasos realizados para obtener los resultados.
+  
